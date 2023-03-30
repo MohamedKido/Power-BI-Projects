@@ -14,7 +14,7 @@ Welcome to the **Power BI Projects** repository! This repository contains a coll
 ## Projects
 This repository currently contains the following projects:
 
-* [Project 1](link-to-project-1): A dashboard that visualizes sales data for a retail company.
+* [Project 1](https://github.com/MohamedKido/Power-BI-Projects/blob/main/Sales%20Platform.pdf): A dashboard that visualizes sales data for a retail company.
 * [Project 2](link-to-project-2): A report that analyzes customer feedback for a hospitality company.
 * [Project 3](link-to-project-3): A dashboard that displays marketing campaign performance for a media company.
 
