@@ -15,7 +15,7 @@ Mohamed Kido is committed to creating innovative and effective data solutions fo
 This repository currently contains the following projects:
 
 * [Project 1](https://github.com/MohamedKido/Power-BI-Projects/blob/main/Sales%20Platform.pdf): A dashboard that visualizes sales data for a retail company.
-* [Project 2](link-to-project-2): A report that analyzes customer fleet parts and recommends a new set of parts or advice improvement.
+* [Project 2](https://github.com/MohamedKido/Power-BI-Projects/blob/main/Fleet%20Parts%20Inspection.pdf): A report that analyzes customer fleet parts and recommends a new set of parts or advice improvement.
 * [Project 3](link-to-project-3): A dashboard that displays marketing campaign performance for a media company.
 
 We will continue to add new projects to this repository as they are developed.
