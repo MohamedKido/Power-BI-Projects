@@ -1,6 +1,6 @@
 # Power BI Projects
 
-Welcome to the **Power BI Projects** repository! This repository contains a collection of Power BI projects developed by team at InsightfulAnalytics
+Welcome to the **Power BI Projects** repository! This repository contains a collection of Power BI projects developed by Mohamed Kido
 
 ## Table of Contents
 * [Introduction](#introduction)
@@ -9,7 +9,7 @@ Welcome to the **Power BI Projects** repository! This repository contains a coll
 * [Contributing](#contributing)
 
 ## Introduction
-[InsightfulAnalytics](https://instagram.com/insightfulanalytics?igshid=ZDdkNTZiNTM) is committed to creating innovative and effective data solutions for our clients. Our team specializes in Power BI development and we have created a number of projects to showcase our capabilities.
+Mohamed Kido is committed to creating innovative and effective data solutions for clients, specializes in Power BI development and have created a number of projects to showcase capabilities.
 
 ## Projects
 This repository currently contains the following projects:
